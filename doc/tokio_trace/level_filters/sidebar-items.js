@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["STATIC_MAX_LEVEL","The statically resolved maximum trace level."]],"struct":[["LevelFilter","`LevelFilter` is used to statistically filter the logging messages based on its `Level`. Logging messages will be discarded if its `Level` is greater than `LevelFilter`."]]});
